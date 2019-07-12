@@ -1,1 +1,5 @@
-
+G. Hinton, O. Vinyals and J. Dean. Distilling the Knowledge in a Neural Network. In NIPS 2014
+Carl Doersch. Tutorial on Variational Autoencoders. stat.ML 2016
+Song Han, Huizi Mao, William and J. Dally. Deep Compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. In ICLR 2016.
+J. Xue, J. Li, and Y. Gong. Restructuring of Deep Neural Network Acoustic Models with Singular Value Decomposition. 
+W. Joo, W. Lee, S. Park & Il-Chul Moon. Dirichlet Variational Autoencoder. 
