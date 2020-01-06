@@ -1,5 +1,5 @@
 # Model_Compression
-Accumulation of work done in internship at IISc
+Accumulation of work done in internship at IISc. See report [here](https://github.com/GopiKishan14/Model_Compression/blob/master/InternSummary.pdf)
 
 ## Flow
 * Read about Knowledge Distillation(KD) and AutoML.
